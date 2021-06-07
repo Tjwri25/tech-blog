@@ -26,5 +26,5 @@ SO THAT I can publish articles, blog posts, and my thoughts and opinions
 
 ## Screenshot
 
-![screenshot](https://user-images.githubusercontent.com/74884495/117759725-785c3980-b1e1-11eb-97ac-0a2002e8dd33.png)
+![screenshot](https://user-images.githubusercontent.com/74884495/120952516-390a0580-c719-11eb-96f0-8139b6371e6b.png)
 
