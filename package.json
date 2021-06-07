@@ -9,7 +9,7 @@
     "seed": "node seeds/seed.js"
   },
   "production": {
-    "use_env_variable": "JAWDB_URL",
+    "use_env_variable": "JAWSDB_URL",
     "dialect": "mysql"
   },
   "keywords": [],
