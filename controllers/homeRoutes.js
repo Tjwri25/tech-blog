@@ -12,9 +12,9 @@ router.get('/', async (req, res) => {
         },
       ],
     });
-t
-    const projects = projectData.map((project) => project.get({ plain: true }));
 
+
+    const projects = projectData.map((project) => project.get({ plain: true }));
     res.render('homepage', { 
       projects, 
       logged_in: req.session.logged_in 
