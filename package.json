@@ -1,5 +1,5 @@
 {
-  "name": "crowd-funding",
+  "name": "tech-blog",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
@@ -8,10 +8,7 @@
     "start": "node server.js",
     "seed": "node seeds/seed.js"
   },
-  "production": {
-    "use_env_variable": "JAWSDB_URL",
-    "dialect": "mysql"
-  },
+
   "keywords": [],
   "author": "",
   "license": "ISC",
